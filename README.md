@@ -1,4 +1,5 @@
-# Kotlin v1.1.1 Getting Started - Capgemini Meetup [10-05-2017]
+# Kotlin v1.1.1 Getting Started 
+## Capgemini Meetup [10-05-2017]
 
 English
 
