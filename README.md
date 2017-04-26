@@ -1,10 +1,8 @@
 # Kotlin v1.1.1 Getting Started 
-## Capgemini Meetup [10-05-2017]
+### Capgemini Meetup
 
-English
+![](https://github.com/vicboma1/Kotlin_v1.1.1-Getting-started/blob/master/open.png)
 
-pptx : https://goo.gl/qcy27i
+English | pptx : https://goo.gl/qcy27i
 
-Spanish
-
-pptx : https://goo.gl/jPrLLI
+Spanish | pptx : https://goo.gl/jPrLLI
