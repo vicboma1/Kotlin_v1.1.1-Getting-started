@@ -1,5 +1,5 @@
-# Kotlin v1.1.1 Getting Started 
-### Capgemini Meetup
+# Kotlin v1.1.2 Getting Started 
+### Capgemini Meetup | Getting-started
 
 ![](https://github.com/vicboma1/Kotlin_v1.1.1-Getting-started/blob/master/open_.png)
 
