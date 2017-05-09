@@ -6,7 +6,10 @@ import java.util.stream.IntStream;
 public class Main {
 
     public static void main(String args[]){
+        Long init = System.currentTimeMillis();
         invoke();
+        System.out.println();
+        System.out.print("Time "+(System.currentTimeMillis() - init)+" ms");
     }
 
     public static void invoke() {

@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Kotlin_v1.1.2-Getting-started.iml" filepath="$PROJECT_DIR$/Kotlin_v1.1.2-Getting-started.iml" />
       <module fileurl="file://$PROJECT_DIR$/java/java.iml" filepath="$PROJECT_DIR$/java/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlinJS/kotlinJS.iml" filepath="$PROJECT_DIR$/kotlinJS/kotlinJS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlinJVM/kotlinJVM.iml" filepath="$PROJECT_DIR$/kotlinJVM/kotlinJVM.iml" />
     </modules>
   </component>
 </project>
